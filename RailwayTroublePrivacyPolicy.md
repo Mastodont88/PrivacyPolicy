@@ -34,11 +34,9 @@ Automatic Data Collection and Advertising
 
 We may work with analytics companies to help us understand how the Application is being used, such as the frequency and duration of usage. We work with advertisers and third party advertising networks, who need to know how you interact with advertising provided in the Application which helps us keep the cost of the Application free. Advertisers and advertising networks use some of the information collected by the Application, including, but not limited to, the unique identification ID of your mobile device and your mobile telephone number. 
 
-At present the Application uses third party services from "Google Analytics" and "AdMob”.
+At present the Application uses third party services from "AdMob”.
 
 The application may use AdMob Ads, users are advised that data may be collected independently by AdMob. For full details of AdMob's Privacy Policy, please visit, http://www.google.com/admob/
-
-The Application may use Google Analytics to collect data. For full details of Google Analytics’ Privacy Policy, please visit, https://www.google.com/analytics/
 
 If you’d like to opt-out from third party use of this type of information to help serve targeted advertising, please visit the section entitled “Opt-out” below.
 
