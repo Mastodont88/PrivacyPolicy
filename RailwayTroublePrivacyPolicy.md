@@ -1,8 +1,7 @@
 RAILWAY TROUBLE PRIVACY POLICY
 
 This privacy policy governs your use of the software application Railway Trouble (“Application”)
-for mobile devices that was created by Daniel Knutsson. The Application is an infinite runner
-with the goal of obtaining the highest possible score, set in an western retro environment.
+for mobile devices. The Application is an infinite runner with the goal of obtaining the highest possible score, set in an western retro environment.
 
 What information does the Application obtain and how is it used?
 
@@ -27,7 +26,7 @@ We may disclose User Provided and Automatically Collected Information:
 - as required by law, such as to comply with a subpoena, or similar legal process;
 - when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
 - with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
-- if Daniel Knutsson is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
+- if we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
 - to advertisers and third party advertising networks and analytics companies as described in the section below.
 
 Automatic Data Collection and Advertising
@@ -46,11 +45,7 @@ Opt-out of all information collection by uninstalling the Application: You can s
 
 Children
 
-I do not use the Application to knowingly solicit data from or market to children under the age of 13. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under the age of 13 may provide any personal information. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under the age of 13, please contact us at mail@mail.com.
-
-Security
-
-We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+We do not use the Application to knowingly solicit data from or market to children under the age of 13. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under the age of 13 may provide any personal information. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under the age of 13, please contact us at railwaytrouble@gmail.com.
 
 Changes
 
@@ -62,4 +57,4 @@ By using the Application, you are consenting to our processing of your informati
 
 Contact us
 
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at privacy@applicationsite.com.
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at railwaytrouble@gmail.com.
