@@ -26,7 +26,7 @@ We may disclose User Provided and Automatically Collected Information:
 - as required by law, such as to comply with a subpoena, or similar legal process;
 - when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
 - with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
-- if we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
+- if we are involved in a merger, acquisition, or sale of all or a portion of its assets.
 - to advertisers and third party advertising networks and analytics companies as described in the section below.
 
 **Automatic Data Collection and Advertising**
