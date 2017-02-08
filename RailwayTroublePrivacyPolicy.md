@@ -45,7 +45,7 @@ Opt-out of all information collection by uninstalling the Application: You can s
 
 **Children**
 
-We do not use the Application to knowingly solicit data from or market to children under the age of 13. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under the age of 13 may provide any personal information. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under the age of 13, please contact us at mastodontgames@gmail.com.
+We do not use the Application to knowingly solicit data from or market to children under the age of 13. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under the age of 13 may provide any personal information. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under the age of 13, please contact us at dropnirgames@gmail.com.
 
 **Changes**
 
@@ -57,4 +57,4 @@ By using the Application, you are consenting to our processing of your informati
 
 **Contact us**
 
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at mastodontgames@gmail.com.
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at dropnirgames@gmail.com.
